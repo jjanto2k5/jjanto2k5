@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jjanto2k5</h1>
 
 <p align="center">
-  <em>🚀 Developer | 📚 Learner | ☕ Coffee + Code = Time Travel</em>
+  <em>🚀 Developer | 📚 Learner </em>
 </p>
 
 ---
@@ -9,11 +9,11 @@
 ### 👨‍💻 Currently Learning
 - 🧠 AI, Deep Learning, System Design
 - 🧪 Kaggle ML competitions
-- 🛠️ Dev Tools, Spaced Repetition
+- 🛠️ Dev Tools
 
 ### 🔍 Exploring
 - 🚀 Hackathons and real-world coding challenges
-- 🌱 Projects using Python, PyTorch, TensorFlow, React
+- 🌱 Projects using Python, Mernstack
 
 ---
 
@@ -31,4 +31,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjanto2
+  <img src="https://github-readme-stats.vercel.app/api?username=jjanto2k5&show_icons=true&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=jjanto2k5&theme=radical"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+- 💬 Discord: jjanto2k5#0000
+- 📸 Instagram: [@your_instagram](https://instagram.com/your_instagram)
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your_linkedin/)
