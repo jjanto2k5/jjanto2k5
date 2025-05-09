@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jjanto2k5</h1>
 
 <p align="center">
-  <em>🚀 Developer | 📚 Learner </em>
+  <em> 📚 Learner </em>
 </p>
 
 ---
@@ -38,6 +38,6 @@
 ---
 
 ### 🌐 Let's Connect
-- 💬 Discord: jjanto2k5#0000
-- 📸 Instagram: [@your_instagram](https://instagram.com/your_instagram)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your_linkedin/)
+- 💬 Discord: jjanto#1210
+- 📸 Instagram: [@xjxoe.anto](https://www.instagram.com/xjxoe.anto?igsh=MXE4bDI2aHJnbXFwaA==)
+- 💼 LinkedIn: [Josewin Anto](https://www.linkedin.com/in/josewin-anto-073593277/)
